@@ -14,3 +14,7 @@ User-Friendly Interface: Simple command-line interface that is easy to use and n
 Python: The core programming language used to develop the application.
 Cryptography: Utilized for encrypting and decrypting the stored passwords.
 SQLite: A lightweight, disk-based database for storing encrypted credentials.
+
+## Screen Shot
+
+![Screenshot (83)](https://github.com/user-attachments/assets/f64a5408-1f9c-4707-8f89-b6e4e0b1d37c)
